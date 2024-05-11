@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2885949033
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: ammo_59d3ebc583bddbd67e267027a380cbe2.ab
+      Dependencies: {}
+    Info_1:
+      Name: player_3746f37fcfbafdb59e12a27e599bd547.ab
+      Dependencies: {}
+    Info_2:
+      Name: map_91b650fbf29cc605b9a936460bd84e85.ab
+      Dependencies: {}
+    Info_3:
+      Name: update_b5c94453fd07f7b416233444a3006cc2.ab
+      Dependencies: {}

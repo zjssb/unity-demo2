@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2642304078
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bc8b95f42a30e927799f66cd217dcf1f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 1
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/jiaoben/lua/test0.lua.txt
+Dependencies: []

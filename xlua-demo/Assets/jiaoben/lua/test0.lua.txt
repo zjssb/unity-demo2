@@ -1,0 +1,3 @@
+﻿xlua.hotfix(CS.Player,'Init',function (self)
+    self.shootCooling = 0.1
+end)
